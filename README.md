@@ -81,8 +81,8 @@ The bot can be customized and translated. All messages and embeds can be modifie
 
 ## Contributions
 
-Contributions are welcome! You can propose new features, commands, or improve bot stability.
-site temporarily offline
+Contributions are welcome! You can propose new features, commands, or improve bot stability. site temporarily offline
+
 ---
 
 ## License
