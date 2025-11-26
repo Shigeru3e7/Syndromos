@@ -1,7 +1,7 @@
 # Sýndromos Discord Bot
 
 Sýndromos is a multifunctional Discord bot developed in Python using the `discord.py` library. It offers a wide range of commands, from mini-games to utility and random commands, enhancing server interaction.
-
+site temporarily offline
 ---
 
 ## Main Features
