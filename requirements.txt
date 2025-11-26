@@ -1,0 +1,4 @@
+discord.py==2.1.1
+randomname==0.1.5
+jsonpickle==3.0.1
+jsonschema==4.17.3
